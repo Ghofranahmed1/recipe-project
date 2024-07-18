@@ -3,7 +3,7 @@ import streamlit as st
 def main():
     st.title("Welcome to My Recipe Website")
 
-    st.image("https://via.placeholder.com/800x400.png?text=Delicious+Recipes", use_column_width=True)
+    st.image("https://cdn11.bigcommerce.com/s-hgeca6jj4z/product_images/uploaded_images/carmie-s-kitchen-recipe-picture.png", use_column_width=True)
 
     st.subheader("Discover and Share Your Favorite Recipes")
     st.write("""
